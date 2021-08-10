@@ -1,0 +1,10 @@
+1. thu nhập trung bình? mốt và trung vị về thu nhập
+2. thu nhập trung bình từng khu vực
+3. số năm đi học tb đối với kh nam và là nv kỹ thuật
+4. tuổi tb kh nữ sống ở miền nam và miền trung
+5. tuổi tb cho 30% kh có tuổi thấp nhất
+6. thu nhập tb cho 20% có tuổi thấp nhất
+7. số năm đi học tb cho 10% kh có thu nhập cao nhất
+8. lập bảng thống kê số lượng khách hàng, tỷ trọng theo từng trình độ
+9. lập bảng thống kê số lượng kh, tỷ trọng theo nhóm tuổi và giới tính
+10. Vẽ các loại biểu đồ theo các câu trên
